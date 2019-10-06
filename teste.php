@@ -1,1 +1,7 @@
-paulo
+?<php
+
+echo "Hello world";
+
+?>
+
+
